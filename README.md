@@ -9,7 +9,7 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程教材 | https://github.com/ccc113a/py2cs <br/> https://www.hello-algo.com/
 
-# 期中作業
+# [期中作業](https://github.com/liu99002/_alg/tree/master/mid)
 在Leetcode上找動態規劃的題目實作，有參考網路上的解法，完全理解
 
 # 期末作業
@@ -18,3 +18,8 @@
 ### 3. 上課時根據老師講解，吸收後自行做一次
 ### 4. 上課時使用老師範例修改，自己完成
 ### 6. 上課時根據老師講解，吸收後整理
+
+# [加分題](https://github.com/liu99002/_alg/tree/master/%E5%8A%A0%E5%88%86)
+在Leetcode上找動態規劃的題目實作，有參考網路上的解法，完全理解
+
+
