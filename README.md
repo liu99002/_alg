@@ -21,5 +21,6 @@
 
 # [加分題](https://github.com/liu99002/_alg/tree/master/%E5%8A%A0%E5%88%86)
 在Leetcode上找動態規劃的題目實作，有參考網路上的解法，完全理解
+`R_P = \frac{k_p k_i}{k_t} [\text{HX}][\text{M}]`
 
 
